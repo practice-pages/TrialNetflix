@@ -10,7 +10,7 @@
     height:80vh;
     border-bottom: 10px solid rgb(31, 30, 31);
     
-    background: linear-gradient(to top , rgba(0, 0, 0, 0.5)-20%, rgba(0,0,0,0.80)95%), url(/banner.jpg);
+    background: linear-gradient(to top , rgba(0, 0, 0, 0.5)-20%, rgba(0,0,0,0.80)95%), url(banner.jpg);
     
     background-repeat: no-repeat;
     background-position: center;
